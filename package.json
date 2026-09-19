@@ -4,9 +4,10 @@
   "description": "my first socket.io app",
   "type": "module",
   "scripts": {
-    "dev":"nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "dependencies": {
-    "express": "^4.22.3"
+    "express": "^4.22.3",
+    "socket.io": "^4.8.3"
   }
 }
